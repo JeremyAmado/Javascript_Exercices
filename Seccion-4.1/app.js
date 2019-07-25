@@ -9,21 +9,15 @@ let nota = 51;
 if (nota >= 50) {
     console.log('el alumno aprueba la clase');
 } else {
-//  console.log('Porfavor estudie mas');
- console.log('El alumno NO Aprueba la clase');
-} 
+    //  console.log('Porfavor estudie mas');
+    console.log('El alumno NO Aprueba la clase');
+}
 
 // if (nota <=50){
-    
+
 // } else {
 //     console.log('El alumno NO Aprueba la clase');
 //    } 
 
 
 console.log('Fin de este programa')
-
-
-
-
-
-
